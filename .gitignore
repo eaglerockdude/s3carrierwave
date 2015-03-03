@@ -2,7 +2,9 @@
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
-*.iml
+
+
+carrierwave.rb
 
 db/*.sqlite3
 log/*.log
